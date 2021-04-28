@@ -1,6 +1,16 @@
 {
   "user": {
     "id": 1,
-    "name": "Bohdan"
+    "name": "Bohdan",
+    "lastName": "Kozerema",
+    "hobbies": ["Football", "Chess", "Movies", "Reading", "Hiking"],
+    "address": {
+        "city": "Gotham",
+        "post": 56473,
+        "street": {
+          "title": "Grumpy Joker",
+          "number": 7
+        }
+    }
   }
 }
